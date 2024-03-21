@@ -54,4 +54,4 @@ CFG简称配置文件，把各种指令写入.cfg文件中可以快速加载、�
 
 **相关视频：** 无
 
-**下载链接：** TODO
+**下载链接：** [提取码:JiOs](https://www.123pan.com/s/CQvwjv-EFBvd.html)

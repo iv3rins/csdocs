@@ -6,20 +6,20 @@
 
 **安装方法：**
 
-下载 **QuickStop Latest.zip** , [解压](https://answer.baidu.com/answer/land?params=9%2BIX4C88WSGy3lAHzCyTt96MU5ocEzurGlIK68n2FmnZjiLV4EBtxg7ZKZIWW8npEy6WUF5Z1rv7pMdtnAKQWsgCDU%2FCcjntADkIdVJTHWw2SbYWKM9wFN9l2ygaBvhyark7qiC958YlqyX927UZUeTySJCwYrUVBbLbEZFILtw7mFoekTxUWXDbBYvfxjXFVh2cwbt77WBTqUkCmT87dw%3D%3D&from=dqa&lid=94f6b53c001c888f&word=%E5%A6%82%E4%BD%95%E8%A7%A3%E5%8E%8B%E6%96%87%E4%BB%B6)此压缩包。
+下载 **QuickStop Latest.zip** , [解压](https://answer.baidu.com/answer/land?params=9%2BIX4C88WSGy3lAHzCyTt96MU5ocEzurGlIK68n2FmnZjiLV4EBtxg7ZKZIWW8npEy6WUF5Z1rv7pMdtnAKQWsgCDU%2FCcjntADkIdVJTHWw2SbYWKM9wFN9l2ygaBvhyark7qiC958YlqyX927UZUeTySJCwYrUVBbLbEZFILtw7mFoekTxUWXDbBYvfxjXFVh2cwbt77WBTqUkCmT87dw%3D%3D\&from=dqa\&lid=94f6b53c001c888f\&word=%E5%A6%82%E4%BD%95%E8%A7%A3%E5%8E%8B%E6%96%87%E4%BB%B6)此压缩包。
 
-0. 打开解压后的文件，里面有个名为 **jiting** 的文件，或者是名为 **jiting.cfg** 的文件，复制它。
-1. 在 Steam 中点开您的库，在库中选择 **Counter-Strike 2**。
-2. 点击右边的齿轮，点击 **属性...**，选择 **已安装文件**，点击 **浏览...**。
-3. 打开 **game** 文件夹，再点开 **csgo** 文件夹，再点开 **cfg** 文件夹。
-4. 将刚刚复制的文件放在这个文件夹里。
+1. 打开解压后的文件，里面有个名为 **jiting** 的文件，或者是名为 **jiting.cfg** 的文件，复制它。
+2. 在 Steam 中点开您的库，在库中选择 **Counter-Strike 2**。
+3. 点击右边的齿轮，点击 **属性...**，选择 **已安装文件**，点击 **浏览...**。
+4. 打开 **game** 文件夹，再点开 **csgo** 文件夹，再点开 **cfg** 文件夹。
+5. 将刚刚复制的文件放在这个文件夹里。
 
-之后回到第1步，点击右边的齿轮，点击 **属性...** 之后，选择 **通用**，在 **启动选项**（高级用户可以选择对启动选项的修改。）处，加入以下内容：
-`+exec jiting`
+之后回到第1步，点击右边的齿轮，点击 **属性...** 之后，选择 **通用**，在 **启动选项**（高级用户可以选择对启动选项的修改。）处，加入以下内容： `+exec jiting`
 
-既可使用急停辅助。其他问题解决方法请加入Q群：*327978675*
+既可使用急停辅助。其他问题解决方法请加入Q群：_327978675_
 
-*急停CFG代码展示*
+_急停CFG代码展示_
+
 ```
 //瓦式急停
 alias "+_forward" "+forward; forwardback 0.0001 0 0;clear";

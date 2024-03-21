@@ -1,5 +1,5 @@
 
-* [CS盘点](README.md)
+* [CS新手百科](README.md)
 * [介绍](介绍/README.md)
   * 赛事
     * [S级赛事](介绍/Stier.md)

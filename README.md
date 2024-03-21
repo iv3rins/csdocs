@@ -8,3 +8,9 @@
 + 趣闻
 + 设置
 + 优化
+
+## 投稿
+
+邮箱联系：iverins@proton.me （不定时在线）
+
+*你也可以在Github提个issue（不推荐）*

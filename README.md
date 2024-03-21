@@ -1,2 +1,10 @@
-# csdocs
-CS fun facts and past events to quickly help newbies get started.
+# CS盘点
+
+提供新闻资料，CS趣闻，CS文件，机器设置，帮助玩家快速上手CS
+
+## TODO
+
++ 道具
++ 趣闻
++ 设置
++ 优化

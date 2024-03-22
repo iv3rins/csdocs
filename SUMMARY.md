@@ -9,4 +9,6 @@
   * CFG
     * [急停CFG](设置与CFG/QUICKSTOP.md)
     * [跑图CFG](设置与CFG/INTRO.md)
+  * 游戏设置
+    * 
 * [道具](道具/README.md)

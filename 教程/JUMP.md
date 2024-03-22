@@ -20,9 +20,9 @@ description: 使用记事本制作自己的第一个cfg。
 
 [Windows 11系统显示后缀名](https://baijiahao.baidu.com/s?id=1786140869512908671&wfr=spider&for=pc)
 
-我们打开CS2的CFG文件夹。[打开CS2的CFG文件夹教程](设置与CFG/README.md)。
+我们打开CS2的CFG文件夹。[打开CS2的CFG文件夹教程](README.md)。
 
-还要[启用游戏内控制台](设置与CFG/README.md)。
+还要[启用游戏内控制台](README.md)。
 
 ## 正式开始
 

@@ -5,7 +5,7 @@
     * [S级赛事](介绍/Stier.md)
   * 选手
     * [传奇选手](介绍/Legends.md)
-* [设置](设置/README.md)
-  * [急停CFG](设置/QUICKSTOP.md)
-  * [跑图CFG](设置/INTRO.md)
+* [设置与CFG](设置与CFG/README.md)
+  * [急停CFG](设置与CFG/QUICKSTOP.md)
+  * [跑图CFG](设置与CFG/INTRO.md)
 * [道具](道具/README.md)

@@ -11,6 +11,7 @@
     * [跑图CFG](设置与CFG/INTRO.md)
   * [游戏设置](设置与CFG/Game%20Settings/README.md)
     * [视频设置](设置与CFG/Game%20Settings/VIDEO.md)
-* [道具](道具/README.md)
+* [道具与思路](道具与思路/README.md)
+  * [荒漠迷城](道具与思路/Mirage/MIRAGE.md)
 * [教程](教程/README.md)
   * [尝试制作第一个自己的CFG吧](教程/JUMP.md)

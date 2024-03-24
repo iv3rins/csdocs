@@ -10,6 +10,7 @@
   * CFG
     * [急停CFG](设置与CFG/QUICKSTOP.md)
     * [跑图CFG](设置与CFG/INTRO.md)
+    * [预瞄练习CFG](设置与CFG/PREFIRE.md)
   * [游戏设置](设置与CFG/Game%20Settings/README.md)
     * [视频设置](设置与CFG/Game%20Settings/VIDEO.md)
 * [道具与思路](道具与思路/README.md)

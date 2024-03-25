@@ -9,5 +9,6 @@ description: 死亡游乐园现在算是比较热门的一张图。
 ## 匪口火
 
 <video src="Molotov%20T%20Spawn-1.mp4" controls title="匪口满烧火丢法"></video>
+[匪口满烧火丢法](Molotov%20T%20Spawn-1.mp4)
 
 **图片版正在制作中**

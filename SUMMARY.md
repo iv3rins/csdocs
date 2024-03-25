@@ -15,5 +15,6 @@
     * [视频设置](设置与CFG/Game%20Settings/VIDEO.md)
 * [道具与思路](道具与思路/README.md)
   * [荒漠迷城](道具与思路/Mirage/MIRAGE.md)
+  * [死亡游乐园](道具与思路/Overpass/README.md)
 * [教程](教程/README.md)
   * [尝试制作第一个自己的CFG吧](教程/JUMP.md)

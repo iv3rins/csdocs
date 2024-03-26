@@ -1,20 +1,7 @@
-
-* [CS2 新手百科](README.md)
-* [术语](术语/README.md)
-* [介绍](介绍/README.md)
-  * 赛事
-    * [S级赛事](介绍/Stier.md)
-  * 选手
-    * [传奇选手](介绍/Legends.md)
-* [设置与CFG](设置与CFG/README.md)
-  * CFG
-    * [急停CFG](设置与CFG/QUICKSTOP.md)
-    * [跑图CFG](设置与CFG/INTRO.md)
-    * [预瞄练习CFG](设置与CFG/PREFIRE.md)
-  * [游戏设置](设置与CFG/Game%20Settings/README.md)
-    * [视频设置](设置与CFG/Game%20Settings/VIDEO.md)
-* [道具与思路](道具与思路/README.md)
-  * [荒漠迷城](道具与思路/Mirage/MIRAGE.md)
-  * [死亡游乐园](道具与思路/Overpass/README.md)
-* [教程](教程/README.md)
-  * [尝试制作第一个自己的CFG吧](教程/JUMP.md)
+* [首页](README.md)
+* [道具与默认](G&D%20Getting%20Start.md)
+* 观赛指南
+    * [选手](Players&Tournaments/Players.md)
+    * 赛事
+* [常见用语](Terms.md)
+* [教程](Tutorial%20Getting%20Start.md)

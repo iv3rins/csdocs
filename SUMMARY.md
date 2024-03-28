@@ -1,5 +1,7 @@
 * [首页](README.md)
 * [道具与默认](G&D%20Getting%20Start.md)
+    * [炼狱小镇](Placeholder/inferno.md)
+        * [道具](Grenades&Default/Grenades/inferno.md)
 * [观赛指南](Tournament%20Guide.md)
     * [选手](Players&Tournaments/Players.md)
     * 赛事

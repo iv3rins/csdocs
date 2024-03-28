@@ -7,3 +7,4 @@
     * 赛事
 * [常见用语](Terms.md)
 * [教程](Tutorial%20Getting%20Start.md)
+    * [尝试制作第一个自己的CFG吧](Tutorial/JumpThrow/howtomakefirstCFG.md)

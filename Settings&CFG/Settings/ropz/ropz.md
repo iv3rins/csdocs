@@ -59,7 +59,7 @@ viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset
 
 + 以玩家为中心: 是
 + 雷达是否旋转: 是
-+ 计分板缩放: 否
++ 切换计分板样式: 否
 + 雷达HUD大小: 1
 + 雷达地图缩放: 0.6
 
@@ -67,7 +67,7 @@ viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset
 
 [一键下载](https://prosettings.net/wp-content/uploads/ropz.zip?lastmod=2023-11-26+10%3A32%3A40)
 
-将其解压后放入CFG文件夹即可使用donk的设置
+将其解压后放入CFG文件夹即可使用ropz的设置
 
 ## 外设
 

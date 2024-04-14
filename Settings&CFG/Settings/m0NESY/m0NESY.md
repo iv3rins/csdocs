@@ -59,7 +59,7 @@ viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset
 
 + 以玩家为中心: 是
 + 雷达是否旋转: 是
-+ 计分板缩放: 是
++ 切换计分板样式: 是
 + 雷达HUD大小: 0.91
 + 雷达地图缩放: 0.4
 
@@ -67,7 +67,7 @@ viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset
 
 [一键下载](https://prosettings.net/wp-content/uploads/m0nesy.zip?lastmod=2024-02-22+01%3A46%3A46)
 
-将其解压后放入CFG文件夹即可使用donk的设置
+将其解压后放入CFG文件夹即可使用m0NESY的设置
 
 ## 外设
 

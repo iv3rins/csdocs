@@ -59,7 +59,7 @@ viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset
 
 + 以玩家为中心: 是
 + 雷达是否旋转: 是
-+ 计分板缩放: 是
++ 切换计分板样式: 是
 + 雷达HUD大小: 1
 + 雷达地图缩放: 0.7
 

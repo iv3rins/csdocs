@@ -5,6 +5,8 @@
         * [ropz](Settings&CFG/Settings/ropz/ropz.md)
         * [donk](Settings&CFG/Settings/donk/donk.md)
         * [m0NESY](Settings&CFG/Settings/m0NESY/m0NESY.md)
+    * [CFG](Placeholder/cfg.md)
+        * [预瞄练习](Settings&CFG/CFGs/prefire.md)
 * [道具与默认](G&D%20Getting%20Start.md)
     * [炼狱小镇](Placeholder/inferno.md)
         * [道具](Grenades&Default/Grenades/inferno.md)
